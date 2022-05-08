@@ -6,3 +6,6 @@ Udemy コース「React Native と Firebase で作る iOS/Android アプリ：�
 Firebase V9
 
 firestore の操作についての参考：<https://javascript.plainenglish.io/using-firestore-with-typescript-in-the-v9-sdk-cf36851bb099>
+
+
+セクション６の40までやったが、Firebaseのプロジェクトを削除しているので、もし再開する場合はプロジェクト設定も必要
